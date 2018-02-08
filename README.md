@@ -2,14 +2,16 @@
 
 twitter-media-scraper is a command-line application written in Python that scrapes and downloads an twitter user's photos and videos. Use responsibly.
 
-Install
+Install (not implemented)
 -------
-To install instagram-scraper:
+__Just download the main file and put it on your dir and ignore this ↓__
+
+_→To install instagram-scraper:
 ```bash
 $ pip install twitter-media-scraper
 ```
 
-To update instagram-scraper:
+_→To update instagram-scraper:
 ```bash
 $ pip install twitter-media-scraper --upgrade
 ```
