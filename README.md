@@ -6,12 +6,12 @@ Install (not implemented)
 -------
 __Just download the main file and put it on your dir and ignore this ↓__
 
-_→To install instagram-scraper:
+_→To install instagram-scraper:_
 ```bash
 $ pip install twitter-media-scraper
 ```
 
-_→To update instagram-scraper:
+_→To update instagram-scraper:_
 ```bash
 $ pip install twitter-media-scraper --upgrade
 ```
