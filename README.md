@@ -1,4 +1,5 @@
 # Twitter Scraper
+=================
 
 twitter-media-scraper is a command-line application written in Python that scrapes and downloads an twitter user's photos and videos. Use responsibly.
 
@@ -19,7 +20,7 @@ Usage
 
 To scrape a public user's media:
 ```bash
-$ twitter-media-scraper <username>             
+$ twitter-media-scraper <username>
 ```
 *By default, downloaded media will be placed in `<current working directory>/<username_[twitter]>`.*
 
@@ -28,7 +29,7 @@ Options
 -------
 
 ```
---destination -d    Specify the download destination an it will download in <destionation>/<username_[twitter]>. By default, media will 
+-d destionation   Specify the download destination an it will download in <destionation>/<username_[twitter]>. By default, media will
                     be downloaded to <current working directory>/<username_[twitter]>.
 ```
 
